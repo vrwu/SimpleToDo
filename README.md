@@ -34,11 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-For me, challenges encountered while building the app was that I was not too familiar with Android Studio, so getting use to it took 
-
-some time. Additionally, the emulator was very laggy and unable to use without lagging my system, so I figured that connecting an 
-
-Android phone to my computer worked better.
+For me, challenges encountered while building the app was that I was not too familiar with Android Studio, so getting use to it took some time. Additionally, the emulator was very laggy and unable to use without lagging my system, so I figured that connecting an Android phone to my computer worked better.
 
 ## License
 
