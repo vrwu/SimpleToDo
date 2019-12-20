@@ -33,10 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+For me, challenges encountered while building the app was that I was not too familiar with Android Studio, so getting use to it took some time. Additionally, the emulator was very laggy and unable to use without lagging my system, so I figured that connecting an Android phone to my computer worked better.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Vivian Wu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
